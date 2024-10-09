@@ -25,3 +25,6 @@ print(type(['Asabeneh', 'Python', 'Finland']))
 print(type('Elian'))
 print(type('Gavilanes'))
 print(type('Ecuador'))
+
+#Prueba de cambio
+print("Esto es una prueba")

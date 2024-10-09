@@ -28,3 +28,6 @@ print(type('Ecuador'))
 
 #Prueba de cambio
 print("Esto es una prueba")
+
+#Suma
+print(3+2)
